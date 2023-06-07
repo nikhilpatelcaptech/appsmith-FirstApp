@@ -86,7 +86,7 @@
                         "label"
                       ],
                       "topRow": 6,
-                      "bottomRow": 10,
+                      "bottomRow": 11,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -110,7 +110,7 @@
                       ],
                       "shouldTruncate": false,
                       "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-                      "text": "This was added in first instance",
+                      "text": "This was added in first instance.",
                       "key": "jurpz7uv0i",
                       "isDeprecated": false,
                       "rightColumn": 43,
@@ -131,7 +131,7 @@
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "mobileLeftColumn": 22,
                       "maxDynamicHeight": 9000,
-                      "originalBottomRow": 11,
+                      "originalBottomRow": 10,
                       "fontSize": "1rem",
                       "minDynamicHeight": 4
                     }
